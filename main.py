@@ -16,15 +16,15 @@ while i > 0:
     i = i-2
 print(files[160])
 time.sleep(5)
-# for id,iteration in enumerate(files):
-#     for g in iteration:
-#         os.chdir('C:\\new_age_python\\2021')
-#         shutil.copy(g, 'C:\\new_age_python\\file_for_alignment')
-#     euclidus.euclidus()
-#     automatic_encoding()
-#     dir = 'C:\\new_age_python\\file_for_alignment'
-#     for f in os.listdir(dir):
-#         os.remove(os.path.join(dir, f))
+for id,iteration in enumerate(files):
+    for g in iteration:
+        os.chdir('C:\\new_age_python\\2021')
+        shutil.copy(g, 'C:\\new_age_python\\file_for_alignment')
+    euclidus.euclidus()
+    automatic_encoding()
+    dir = 'C:\\new_age_python\\file_for_alignment'
+    for f in os.listdir(dir):
+        os.remove(os.path.join(dir, f))
 
 
 
