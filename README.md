@@ -10,3 +10,5 @@
 ###### 2019-02-25_gshra_17_ady.txt
 ###### 2020-02-12_gshra_40.ady.txt
 ###### 2021-05-19_gshra_0.ady.txt
+
+### Исходные файлы и результат: https://drive.google.com/drive/folders/1F0dTbmVCiYdvJiZpnm8HOmqRSQVdRVh0?usp=sharing
